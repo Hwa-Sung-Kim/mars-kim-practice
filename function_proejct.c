@@ -8,6 +8,7 @@ void success();
 void fail();
 
 
+
 int main(void)
 {
     // 문이 5개가 있고, 각 문마다 점점 어려운 수식 퀴즈가 출제
